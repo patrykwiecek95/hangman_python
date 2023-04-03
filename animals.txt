@@ -1,0 +1,13 @@
+elephant
+squirrel
+wildcat
+wolf
+snake
+hedgehog
+spider
+chipmunk
+monkey
+raccoon
+leopard
+tiger
+giraffe
